@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/f632e464-27ee-4a00-a967-a242c95c3ac1)
 
-[Google Drive Link]([https://drive.google.com/drive/u/0/folders/1svHynGlwr7JKA02n5Jt7F-PYmH98pda1](https://docs.google.com/spreadsheets/d/16zDlMAK-QEJo3e8-mDt3CT91WrjNDixEgXfPSYE8hOI/edit?usp=drive_link))
+[Tabel BOM](https://docs.google.com/spreadsheets/d/16zDlMAK-QEJo3e8-mDt3CT91WrjNDixEgXfPSYE8hOI/edit?usp=sharing)
 
 ### Componentele au fost procurate de pe:
 - [Mouser](https://eu.mouser.com/)
