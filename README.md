@@ -11,9 +11,6 @@
 - [Comet](https://www.comet.srl.ro/)
 
 ### Examinare 3D a dispozitivului:
-- Pentru a vedea în Fusion ce este în spatele ecranului:
-  - Apasă Hide pe Browser -> Bodies -> Box: vei vedea placa și bateria.
-
 - Sketch 43 reprezintă bateria.
 - Sketch 44 reprezintă ecranul.
 - Pentru a vedea imagini cu dispozitivul, caută în directorul Images al acestui repository.
