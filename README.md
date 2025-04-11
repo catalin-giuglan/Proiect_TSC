@@ -17,10 +17,6 @@
 
 ---
 
-Pentru a îmbunătăți aspectul descrierii proiectului în README, se pot aplica următoarele modificări pentru a face structura mai clară și prezentarea mai atractivă:
-
----
-
 # **Descriere Proiect**  
 
 Acest proiect constă în dezvoltarea unui ebook reader, utilizând **Autodesk Fusion** pentru modelare 3D și **librăria Desk Assistant** pentru proiectarea electronică. În cele ce urmează sunt prezentate etapele principale ale realizării proiectului, de la montarea schematicului, până la integrarea finală și generarea fișierelor necesare.
