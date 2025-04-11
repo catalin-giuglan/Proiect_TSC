@@ -20,47 +20,29 @@
 
 ---
 
-### Descriere Proiect:
+Descriere Proiect:
+Ebook Reader - Proiect realizat în Autodesk Fusion
+Acest proiect constă în dezvoltarea unui ebook reader modern, utilizând software-ul Autodesk Fusion pentru proiectare și librăria Desk Assistant pentru componentele electronice. Dispozitivul integrează un display E-Paper, un microcontroller ESP32-C6 și alte componente hardware descrise mai jos.
 
-## Ebook Reader - Proiect realizat în Autodesk Fusion
+Pașii cheie ai proiectului:
+Instalarea librăriei Desk Assistant
 
-Acest proiect reprezintă dezvoltarea unui ebook reader, realizat cu ajutorul software-ului Autodesk Fusion și al librăriei Desk Assistant. În cele ce urmează sunt descriși pașii principali ai realizării proiectului, de la montarea schematicului, până la integrarea 3D finală și pregătirea fișierelor necesare.
+Am instalat librăria pentru acces la componente precum rezistențe, condensatori și butoane.
+Crearea schematicului
 
-# 1. Instalarea librăriei Desk Assistant
+Am proiectat schematicul conectând componentele respectând cerințele tehnice.
+Implementarea PCB-ului
 
-Proiectul a debutat cu instalarea librăriei Desk Assistant, care a oferit acces la toate componentele necesare: rezistențe, condensatori, butoane și altele. Această librărie a constituit baza proiectării și implementării electronice.
+Am poziționat componentele și am realizat rutarea circuitelor respectând regulile DRC.
+Modelare 3D
 
-# 2. Realizarea schematicului
+Am mapat modelele 3D ale componentelor și am integrat placa PCB într-o carcasă.
+Generarea fișierelor auxiliare
 
-Am început prin crearea schematicului — un fișier 2D în care am conectat componentele între ele conform cerințelor. Schematicul a fost realizat cu precizie, respectând topologia și conexiunile specificate.
+Am produs fișierul BOM și fișierul CAM pentru fabricarea PCB-ului.
+Prezentare și livrare
 
-# 3. Implementarea PCB-ului
-
-După finalizarea schematicului, am trecut la partea de PCB layout. Am poziționat toate componentele conform dimensiunilor și constrângerilor date în enunț. Am realizat rutarea circuitelor și am corectat erorile apărute în timpul procesului.
-
-# Am ținut cont de:
-
--- Fișierul DRC (Design Rule Check) – pentru validarea regulilor de proiectare
--- Constrângerile privind grosimea cablurilor – pentru asigurarea unei funcționări optime
-
-# 4. Modelare 3D
-
-Pentru realizarea modelului 3D:
--- Am descărcat și poziționat modelele 3D ale fiecărei componente în parte
--- Le-am mapat la corespondentele lor 2D
--- Am actualizat schema 3D în urma fiecărei mapări
--- La final, am integrat întreaga placă în carcasa oferită în enunț, alături de o baterie și un display
-
-# 5. Fișiere auxiliare
-
-Pentru finalizarea cerințelor, am generat:
-Fișierul BOM (Bill of Materials)
-Fișierul CAM necesar pentru fabricarea PCB-ului
-
-# 6. Prezentare și livrare
-
-Am realizat capturi de ecran relevante pentru a evidenția modul în care arată placa 3D și modul de integrare în carcasă. Proiectul complet a fost încărcat pe GitHub, împreună cu acest fișier README.md care documentează procesul de realizare.
-
+Am realizat capturi de ecran și am încărcat proiectul complet pe GitHub.
 ---
 
 ### Componente Hardware folosite:
